@@ -57,7 +57,7 @@ global.keluargc = 'https://telegra.ph/file/cfd0948086c67bf74aaa2.jpg'//thumnabil
 
 
 //==============================\
-global.sapi = 'Rakaabot-Mdོ
+global.sapi = 'Rakaabot-Mdོ'
 //===============================\\
 global.wms = '62895395007536' //wm help Pake nomor yng mau pp nya di jadiin Wm
 autoread = true //jangan di ubah
